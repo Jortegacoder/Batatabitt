@@ -1,0 +1,37 @@
+.main-exchange-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.exchain-container-img {
+    margin: 0 auto;
+}
+
+.exchange-container--title {
+    width: 20vw;
+    padding-top: 51px;
+    margin: 0 auto 51px;
+    align-self: center;
+}
+
+.exchange-container-tables{
+    display: flex;
+    margin: 0 auto;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 875px;
+    margin: 0 auto;
+}
+
+.bitcoin-img-container {
+    height: 120vh;
+    background-image: url('../assets/imagenes/bitcoinbabyX2.jpg');
+}
+
+.plans-container--slider , .main-tables-container {
+    justify-content: center;
+}
